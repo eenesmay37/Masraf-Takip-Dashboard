@@ -1,5 +1,8 @@
 # 💸 Profesyonel Masraf Takip Dashboard (Expense Tracker)
 
+<img width="1890" height="1050" alt="dashboard" src="https://github.com/user-attachments/assets/6abb930a-2403-45b8-884e-0b85ff1fd54a" />
+
+
 Bu proje, kişisel veya kurumsal harcamaları düzenli bir şekilde kayıt altına almak, kategorize etmek ve finansal durumu analiz etmek amacıyla geliştirilmiş, tam donanımlı bir web tabanlı CRUD (Create, Read, Update, Delete) uygulamasıdır. 
 
 ## 🚀 Öne Çıkan Özellikler
