@@ -1,3 +1,5 @@
+# 💸 Masraf Takip Dashboard
+Kişisel ve kurumsal harcamaların yönetilmesi, kategorize edilmesi ve analiz edilmesi için geliştirilmiş finansal dashboard. Oturum kontrolü (Login), dinamik veri görselleştirme (Chart.js) ve Excel raporlama özelliklerini barındıran PHP/MySQL tabanlı CRUD uygulamasıdır.
 # 💸 Profesyonel Masraf Takip Dashboard (Expense Tracker)
 
 <img width="1890" height="867" alt="dashboard" src="https://github.com/user-attachments/assets/9afa2ab2-f020-41cb-aaeb-5ef2d75991b8" />
